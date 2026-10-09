@@ -1,0 +1,6 @@
+{
+  "name": "Nival — Cyberspace Identity",
+  "description": "Explore digital identities, crafted for a new kind of presence with interactive spotlight reveal and adaptive materials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
